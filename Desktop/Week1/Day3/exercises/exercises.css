@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.sened{
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    background-color: #8080804a;
+    height: 536px;
+    padding: 0px 15px;
+    border-radius: 10px;
+    box-shadow: 14px 10px gray;
+}
+.main-page{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.metn{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.will{
+    font-size: 30px;
+    color: rgb(74, 61, 61);
+}
+.ander{
+    font-size: 28px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.xett{
+    height: 2px;
+    width: 40px;
+    background-color: orangered;
+    margin-top: 5px;
+}
+.job{
+    font-size: 16px;
+    color: gray;
+    margin-top: 8px;
+}
+.foto{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+.foto img{
+    width: 150px;
+}
+.xett2{
+    width: 100%;
+    height: 2px;
+    background-color: gray;
+    margin-top: 20px;
+}
+.alt{
+    width: 100%;
+    display: flex;
+}
+.contact{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.tact{
+    font-weight: 600 !important;
+    font-size: 16px !important;
+    color: black !important;
+}
+.contact ul{
+    list-style: none;
+    margin-top: 7px;
+    margin-bottom: 40px;
+}
+.contact a{
+    display: flex;
+    text-decoration: none;
+    margin-bottom: 7px;
+}
+.contact i{
+    margin-right: 10px;
+    color: #b5b526;
+}
+.contact span{
+    font-size: 13px;
+    color: gray;
+}
+.enter{
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 7px;
+}
+.uni{
+    font-size: 13px;
+    color: gray;
+    margin-bottom: 20px;
+}
+.uzun-xett{
+    background-color: #80808045;
+    width: 10%;
+    margin-left: 30px;
+    height: 364px;
+    margin-right: 10px;
+}
+.profil{
+    margin-top: 18px;
+}
+.hello{
+    font-size: 13px;
+    font-weight: 600;
+}
+.boz{
+    font-weight: 200 !important;
+    color: gray !important;
+}
+.tac{
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+}
+.asagi{
+    margin-top: 47px;
+    display: flex;
+    flex-direction: column;
+}
+.loc{
+    font-size: 14px;
+    color: gray;
+}
+.fug{
+    font-size: 13px;
+    color: gray;
+    margin-top: 14px;
+}
+.noqte{
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 20px;
+    margin-top: -14px;
+}
+.fup{
+    font-size: 13px;
+    color: gray;
+    margin-left: 10px;
+    font-weight: 200 !important;
+}
