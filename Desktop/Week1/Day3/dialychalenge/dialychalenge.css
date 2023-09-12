@@ -1,5 +1,5 @@
 .left div{
-    background-color: red;
+    background-color: rgb(0, 34, 255);
     height: 8vw;
     width: 8vw;
     margin:0.5vw;
@@ -17,18 +17,17 @@
   
   
   .right div{
-    background-color: red;
+    background-color: rgb(93, 213, 49);
     height: 8vw;
     width: 8vw;
     margin:0.5vw;
   }
   
   
-  body{
+  .container{
+    border: 1px solid;
     display: flex;
-    justify-content: space-between;
-    flex-direction: row;
-  
+    justify-content: space-between;  
   }
   
   .left{
@@ -39,8 +38,7 @@
   
   
   .mid{
-    display: flex;
-    
+    display: flex;    
     align-content: space-between;
   }
   
@@ -48,7 +46,7 @@
   .right{
     display: flex;
     flex-direction: column;
-    align-content: space-between;
+    justify-content: end;
   }
   
   .mid_1, .mid_2, .mid_3, .mid_4{
