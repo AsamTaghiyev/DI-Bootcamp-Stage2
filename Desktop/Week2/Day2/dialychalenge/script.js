@@ -15,18 +15,5 @@
 // }
 
 
-// Kullanıcıdan notu al
-// var not = prompt("Lütfen notunuzu girin:");
-
-// // Notun değerine göre duruma karar ver
-// if (not > 90) {
-//     console.log("A");
-// } else if (not >= 80) {
-//     console.log("B");
-// } else if (not >= 70) {
-//     console.log("C");
-// } else {
-//     console.log("D");
-// }
 
 
