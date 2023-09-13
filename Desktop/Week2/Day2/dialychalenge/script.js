@@ -13,6 +13,8 @@
 // } else {
 //     console.log(sentence);
 // }
+// script.js
+
 
 
 
