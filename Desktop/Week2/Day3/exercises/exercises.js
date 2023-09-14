@@ -131,15 +131,15 @@
 
 // EXERCISES 7
 
+
 // let names = ["Jack", "Philip", "Sarah", "Amanda", "Bernard", "Kyle"];
+// let secretName = "";
 
-// let secretName = names.map(name => name[0]).sort().join('');
+// for (let i = 0; i < names.length; i++) {
+//     secretName += names[i][0];
+// }
 
+// secretName = secretName.split('').sort().join('');
 // console.log("The secret society's name: " + secretName);
-
-
-
-
-
 
 
